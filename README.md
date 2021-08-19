@@ -6,7 +6,7 @@
 ## Imagens
 
 <p>
-  <img src="Images/01.png" width="700" title="preview">
+  <img src="~/Images/01.PNG" width="700" title="preview">
 
 </p>
 
